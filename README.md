@@ -2,4 +2,4 @@
 
 Este repositorio cuenta con los codigos del trabajo final de Teoria Electromagnetica.
 
-**Agradecimientos**: Agradecemos al estudiante Samuel Toro @Storo15012 que nos compartio la existencia de Vpython.
+**Agradecimientos**: Agradecemos al estudiante Samuel Toro ([Storo15012](https://github.com/Storo15012)) que nos compartio la existencia de Vpython.

@@ -1,2 +1,3 @@
-# trabajo_final_TE-2023-2
-Ejemplos para el trabajo final de Teoria Electromagnetica
+# Trabajo final de Teoria Electromagnetica
+
+Este repositorio cuenta con los codigos del trabajo final de Teoria Electromagnetica.
